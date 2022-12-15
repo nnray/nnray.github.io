@@ -1,1 +1,1 @@
-Code used to build my website.
+The code underlying my website, nicholasnray.com.
