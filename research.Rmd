@@ -3,7 +3,7 @@ title: "&#32;"
 ---
 <section>
   <h1> Publications </h1>
-    <h2> Book Chapters </h2>
+    <h3> Book Chapters </h3>
     <p> Dunaway, Johanna and Nicholas N. Ray. Forthcoming. "Communication Technology and Threats to Democracy: We Are Also the Problem." In <a         href=https://www.routledge.com/News-Quality-in-the-Digital-Age/Lawrence-Napoli/p/book/9781032191775> News Quality in the Digital Age</a>, edited by Regina Lawrence and Philip Napoli. New York: Routledge. 
     </p>
 </section>
