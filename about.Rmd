@@ -1,8 +1,4 @@
 ---
-title: "Research"
+title: "About"
 ---
-CV
-
-Book Chapter
-
-Working Papers
+Bio
