@@ -4,6 +4,6 @@ navbar:
   title: "Nicholas Norfleet Ray"
   left:
     - text: "About"
-      href: About.html
+      href: index.html
     - text: "Research"
-      href: Research.html
+      href: about.html
