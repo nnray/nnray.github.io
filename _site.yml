@@ -10,5 +10,5 @@ navbar:
       icon: glyphicon-pencil
       href: research.html
     - text: "Teaching"
-      icon: fa-ruler fa-lg
+      icon: fa-ruler fa-thin
       href: teaching.html
