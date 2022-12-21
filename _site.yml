@@ -3,7 +3,9 @@ output_dir: "."
 navbar:
   title: "Nicholas Norfleet Ray"
   left:
-    - text: "About"
+    - text: "Home"
+      icon: glyphicon-home
       href: index.html
     - text: "Research"
+      icon: glyphicon-pencil
       href: about.html
