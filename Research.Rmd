@@ -1,8 +1,0 @@
----
-title: "Research"
----
-CV
-
-Book Chapter
-
-Working Papers
