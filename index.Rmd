@@ -1,6 +1,9 @@
 ---
-title: "Bio"
+title: "&#32;"
 ---
-I am a political science PhD student at Texas A&M University-College Station studying political economy. I primarily seek to understand how shifts in the geopolitical landscape and great power competition affect global finance outcomes (e.g., foreign aid) for developing countries. In addition, I am interested in illuminating the political consequences of increasingly sophisticated information and communication technologies (ICTs).
-
-Download my CV <a href=Ray_CV.pdf>here. <i class="glyphicon glyphicon-download"></i></a>
+<section>
+  <h1> Biography </h1>
+    <p> I am a political science PhD student at Texas A&M University-College Station studying political economy. I primarily seek to understand how shifts in the geopolitical landscape and great power competition affect global finance outcomes (e.g., foreign aid) for developing countries. In addition, I am interested in illuminating the political consequences of increasingly sophisticated information and communication technologies (ICTs).
+    </p>
+    <p> Download my CV <a href=Ray_CV.pdf>here. <i class="glyphicon glyphicon-download"></i></a>
+    </p>
