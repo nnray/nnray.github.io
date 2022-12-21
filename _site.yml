@@ -8,4 +8,7 @@ navbar:
       href: index.html
     - text: "Research"
       icon: glyphicon-pencil
-      href: about.html
+      href: research.html
+    - text: "Teaching"
+      icon: fa-ruler fa-lg
+      href: teaching.html
