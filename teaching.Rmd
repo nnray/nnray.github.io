@@ -2,14 +2,17 @@
 title: "&#32;"
 ---
 <section>
-  <h1> POLS 200 </h1>
-    <h3 style="margin-left: 10px;"> Fall 2022 </h3>
-    <p style="margin-left: 50px;"> Description.
+  <h1> Teaching Assistant </h1>
+    <h3> POLS 200 </h3>
+    <p style="font-size:14px;"> Description of POLS 200.
     </p>
-    <h3 style="margin-left: 10px;"> Spring 2022 </h3>
-    <p style="margin-left: 50px;"> Description.
+    <h4 style="margin-left: 10px;"> Fall 2022 </h4>
+    <p style="margin-left: 50px;"> I taught two sections with a combined 42 students. The course evaluation is pending.
     </p>
-    <h3 style="margin-left: 10px;"> Fall 2021 </h3>
-    <p style="margin-left: 50px;"> Description.
+    <h4 style="margin-left: 10px;"> Spring 2022 </h4>
+    <p style="margin-left: 50px;"> I led a weekly discussion session with 15 students. Here is the<a href=Spring_2022_Evaluation.pdf> course evaluation.</a> The survey items that correspond to my teaching are 8, 9, and 10 (pp. 7-8).
+    </p>
+    <h4 style="margin-left: 10px;"> Fall 2021 </h4>
+    <p style="margin-left: 50px;"> I led a weekly discussion session with 18 students. Here is the<a href=Fall_2021_Evaluation.pdf> course evaluation.</a> The survey items that correspond to my teaching are 8, 9, and 10 (pp. 6-8).
     </p>
 </section>
