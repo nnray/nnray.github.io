@@ -5,14 +5,14 @@ title: "&#32;"
   <h1> Publications </h1>
     <h3> Book Chapters </h3>
     <h4 style="margin-left: 10px;"> Dunaway, Johanna and Nicholas N. Ray. Forthcoming. <a href=Dunaway,_Ray,_Lawrence_and_Napoli_Pre-Print_Copy.pdf> "Communication Technology and Threats to Democracy: We Are (Also) the Problem."</a> In <a href=https://www.routledge.com/News-Quality-in-the-Digital-Age/Lawrence-Napoli/p/book/9781032191775> News Quality in the Digital Age</a>, edited by Regina Lawrence and Philip Napoli. New York: Routledge. </h4>
-    <p style="margin-left: 50px;"> Description.
+    <p style="margin-left: 50px;"> We argue that academic discussions of digital media and its effects need to more heavily consider how individuals process digital information and not just how much or what kinds they are exposed to. Moreover, we highlight that digital media maintains attributes of more traditional media that qualifies its expected political impact.
     </p>
 </section>
 
 <section>
   <h1> Working Papers </h1>
     <h4 style="margin-left: 10px;"> Ray, Nicholas N. 2022. <a href=https://github.com/nnray/On_Government_Borrowing_Behavior-LaTeX_Code_and_.pdf/blob/main/.pdf/On_Government_Borrowing_Behavior.pdf> "On Government Borrowing Behavior."</a> </h4>
-    <p style="margin-left: 50px;"> Description.
+    <p style="margin-left: 50px;"> Description or abstract.
     </p>
     <p style="margin-left: 50px;"> <a href=https://github.com/nnray/On_Government_Borrowing_Behavior-R_Code_and_Data>R Code <i class="fa fa-github fa-lg"></i></a>
     </p>

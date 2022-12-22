@@ -4,7 +4,7 @@ title: "&#32;"
 <section>
   <h1> Teaching Assistant </h1>
     <h3> Political Science (<a href=https://catalog.tamu.edu/undergraduate/course-descriptions/pols/>POLS</a>) 200 </h3>
-    <p style="font-size:14px;"> This class, titled the "Foundations of Political Science," is the introductory course in political science at A&M. It mainly focuses on historically important topics to the field, such as political violence and elections, without specifying common subfields like international relations (IR) or American politics (AP). There is also brief exposure to basic quantitative research methods, such as linear regression and experimental settings.
+    <p style="font-size:14px;"> This class, titled the "Foundations of Political Science," is the introductory course in political science at A&M. It mainly focuses on historically important topics to the field, such as political violence and elections, without specifying common subfields like international relations (IR) or American politics (AP). There is also brief exposure to basic quantitative research methods and ideas, such as linear regression and experimental settings.
     </p>
     <p> It is intended to be a writing-intensive class, with students completing 5 two-page essays throughout the semester that are graded by the teaching assistant. There are also three to four multiple-choice exams throughout the course that are typically conducted online and graded with software.
     </p>
