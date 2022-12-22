@@ -18,9 +18,9 @@ I am a political science PhD student at Texas A&M University-College Station stu
 <p style = "font-size:20px;position:absolute;left:550px;top:440px;"> Here is the link to my <a href=https://github.com/nnray> GitHub <i class="fa fa-github fa-lg"></i></a> repositories.
 </p>
 
-<p style="font-size:30px;position:absolute;left:100px;bottom:250px"> Personal Interests
+<p style="font-size:30px;position:absolute;left:100px;bottom:100px"> Personal Interests
 </p>
-<p style="font-size:20px;position:absolute;left:50px;bottom:200px"> Reading
+<p style="font-size:20px;position:absolute;left:50px;bottom:60px"> Reading
 </p>
-<p> <img src="Old_Library.jpg" alt="Old Library" style="float:none;padding:10px;width:450px;height:450px;position:absolute;right:50px;bottom:-100px;">
+<p> <img src="Old_Library.jpg" alt="Old Library" style="float:none;padding:10px;width:450px;height:450px;position:absolute;right:50px;bottom:-200px;">
 </p>
