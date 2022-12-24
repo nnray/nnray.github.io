@@ -11,7 +11,7 @@ title: "&#32;"
     <p align="justify" style="font-size:16px;"> Students attend plenary lectures with the instructor of record on Monday's and Wednesday's. Recitations, known as discussion sessions, are held on Friday's and are taught by the teaching assistant associated with a student's section.
     </p>
     <h4 style="margin-left: 10px;"> Fall 2022 </h4>
-    <p align="justify" style="font-size:16px;margin-left: 50px;"> I taught two sections with a combined 42 students. The course evaluations are currently pending.
+    <p align="justify" style="font-size:16px;margin-left: 50px;"> I taught two sections with a combined 42 students. Here is the course evaluation for the first section, <a href=Fall_2022_901_Evaluation.pdf>901</a>, and for the other section, <a href=Fall_2022_904_Evaluation.pdf>904</a>. The survey items that pertain to the teaching assistant are items 8-10 (pp. 6-8) for both evaluations.
     </p>
     <h4 style="margin-left: 10px;"> Spring 2022 </h4>
     <p align="justify" style="font-size:16px;margin-left: 50px;"> I conducted weekly recitations with 15 students. Here is the<a href=Spring_2022_Evaluation.pdf> course evaluation.</a> The survey items that correspond to the teaching assistant are 8, 9, and 10 (pp. 7-8).
