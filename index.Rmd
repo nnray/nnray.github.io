@@ -3,7 +3,7 @@ title: "&#32;"
 ---
 <section>
 <h1 align="right"> Academic Biography </h1>
-  <p> <img src="Old_Picture.jpg" alt="Old Picture" style="float:left;padding:10px;width:450px;height:400px;">
+  <p> <img src="Self-Portrait.jpg" style="float:left;padding:10px;width:450px;height:450px;">
   </p>
   <p align="justify" style = "font-size:20px;"> I am a political science PhD student at Texas A&M University-College Station studying political economy. I primarily seek to understand how shifts in the geopolitical landscape and great power competition affect global finance outcomes (e.g., foreign aid) for developing countries. In addition, I am interested in illuminating the political consequences of increasingly sophisticated information and communication technologies (ICTs).
   </p>
