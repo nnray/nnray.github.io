@@ -1,6 +1,10 @@
 ---
 title: "&#32;"
 ---
+<head> <meta Nicholas Norfleet Ray/>
+<meta Political Science/>
+<meta Texas A&M University/>
+</head>
 <section>
 <h1 align="right"> Academic Biography </h1>
   <p> <img src="Self-Portrait.jpg" style="float:left;padding:10px;width:450px;height:450px;">
