@@ -1,0 +1,11 @@
+---
+title: "&#32;"
+---
+<section>
+  <h1> Methods </h1>
+    <h3> Introduction </h3>
+    <p> I aim to provide a brief overview of modeling and estimation techniques from my perspective as a political science scholar, which is heavily steeped in the frequentist tradition and my experience with linear models and R. This guide, if it can be called that, is primarily a personal exercise in categorizing and solidifying my ... </p>
+    <p> In general, social science involves building empirical models to estimate theoretical quantities of interest. <p>
+</section>
+
+
