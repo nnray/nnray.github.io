@@ -5,6 +5,15 @@ title: "&#32;"
 <meta Political Science/>
 <meta Texas A&M University/>
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2BJ6GPSDGY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2BJ6GPSDGY');
+</script>
 <section>
 <h1 align="right"> Academic Biography </h1>
   <p> <img src="Self-Portrait.jpg" style="float:left;padding:10px;width:450px;height:450px;">
