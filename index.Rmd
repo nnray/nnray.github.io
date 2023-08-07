@@ -17,7 +17,7 @@ title: "&#32;"
 <h1 align="right"> Academic Biography </h1>
   <p> <img src="Self-Portrait.jpg" style="float:left;padding:10px;width:450px;height:450px;">
   </p>
-  <p align="justify" style = "font-size:20px;margin-bottom:2cm;"> I am a political science PhD student at Texas A&M University-College Station studying political economy. I primarily seek to understand how shifts in the geopolitical landscape and great power competition affect global finance outcomes (e.g., foreign aid) for developing countries. In addition, I am interested in illuminating the political consequences of increasingly sophisticated information and communication technologies (ICTs).
+  <p align="justify" style = "font-size:20px;margin-bottom:2cm;"> I am a political science PhD student at Texas A&M University-College Station majoring in comparative politics and minoring in both international relations and quantitative methods. I primarily seek to understand how international economic forces affect domestic politics in various countries, which typically corresponds to the subfield of international political economy (IPE). My current interests are reflected in my working papers, especially the second one and its subsidiary.
   <p align="center" style = "font-size:20px;margin-bottom:3cm;">
   <a href = "mailto: nnray@tamu.edu"> <img src="gmail.png" style="width:24px;height:20px;"></a>
   <a href=Ray_CV.pdf>  <img src="cv.png" style="width:24px;height:24px;"></a> 

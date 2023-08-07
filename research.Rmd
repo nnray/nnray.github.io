@@ -32,4 +32,7 @@ title: "&#32;"
     <p align="justify" style="font-size:16px;margin-left: 50px;"> Abstract: I argue that political elites have chosen not to compensate the potential losers of globalization because there is either a lack of adequate demand from voters, too low of a threat from populist entrants, or too high of a threat from traditional rivals. Using several proxies for these mechanisms, I test implications on 49 countries from 1990-2020. No evidence is found for the theory but the potential for empirical and theoretical refinements is possibly high.
     </p>
     <p style="margin-left: 50px;"> <a href=https://github.com/nnray/Globalization_and_Compensation>Replication Code and Data <i class="fa fa-github fa-lg"></i></a>
+    <h4 style="margin-left: 50px;"> - <a href=Measuring_Globalization_and_Compensation.pdf> "Measuring Globalization and Compensation."</a> </h4>
+    <p align="justify" style="font-size:16px;margin-left: 90px;"> A discussion of my recent attempts to directly measure potential forms of compensation.
+    </p>
 </section>
