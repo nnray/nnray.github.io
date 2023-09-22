@@ -21,11 +21,11 @@ title: "&#32;"
     <h4 style="margin-left: 10px;"> Fall 2023 </h4>
     <p align="justify" style="font-size:16px;margin-left: 50px;"> There are 10 students in this class. I am using this page to host teaching materials for the time being, which are found immediately below.
     </p> 
-    <p align="justify" style="font-size:16px;margin-left: 50px;"> September 8. Introduction to <img src="latex-svgrepo-com.png" style="width:50px;height:50px;"> and `R`. <a href=https://www.overleaf.com/read/wcjrmrxprgzm>Introduction to LaTeX</a>. <a href=September_8.zip>Introduction to R Markdown</a>.
+    <p align="justify" style="font-size:16px;margin-left: 50px;"> September 8. Introduction to <img src="latex-svgrepo-com.png" style="width:50px;height:50px;"> and `R`. <a href=https://www.overleaf.com/read/wcjrmrxprgzm>Introduction to LaTeX</a>. <a href=September_8.zip> Introduction to R Markdown</a>.
     </p>
-    <p align="justify" style="font-size:16px;margin-left: 50px;"> September 15. <a href=September_15.zip>Bivariate Regression</a>.
+    <p align="justify" style="font-size:16px;margin-left: 50px;"> September 15. <a href=September_15.zip> Bivariate Regression</a>.
     </p>
-    <p align="justify" style="font-size:16px;margin-left: 50px;"> September 22. <a href=September_22.zip>Bivariate Uncertainty</a>.
+    <p align="justify" style="font-size:16px;margin-left: 50px;"> September 22. <a href=September_22.zip> Bivariate Uncertainty</a>.
     </p>
     <h3> POLS 209 </h3>
     <p align="justify" style="font-size:16px;"> This course is the "Introduction to Political Science Research" and focuses on familiarizing students with the fundamentals of conducting social science research, such as building causal theories and utilizing common statistical software (`R`) to evaluate hypotheses with observational data. I held weekly recitation sessions where I elaborated on topics discussed during lectures and demonstrated the use of `R`. </p>
