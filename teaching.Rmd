@@ -27,6 +27,8 @@ title: "&#32;"
     </p>
     <p align="justify" style="font-size:16px;margin-left: 50px;"> September 22. <a href=September_22.zip> Bivariate Uncertainty</a>.
     </p>
+    <p align="justify" style="font-size:16px;margin-left: 50px;"> September 29. <a href=September_29.zip> Monte Carlos</a>.
+    </p>
     <h3> POLS 209 </h3>
     <p align="justify" style="font-size:16px;"> This course is the "Introduction to Political Science Research" and focuses on familiarizing students with the fundamentals of conducting social science research, such as building causal theories and utilizing common statistical software (`R`) to evaluate hypotheses with observational data. I held weekly recitation sessions where I elaborated on topics discussed during lectures and demonstrated the use of `R`. </p>
     <h4 style="margin-left: 10px;"> Spring 2023 </h4>
