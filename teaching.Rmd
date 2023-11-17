@@ -37,6 +37,8 @@ title: "&#32;"
     </p>
     <p align="justify" style="font-size:16px;margin-left: 50px;"> November 10. <a href=November_10.zip> Simulating and Diagnosing Heteroskedasticity and Serial Correlation</a>.
     </p>
+    <p align="justify" style="font-size:16px;margin-left: 50px;"> November 17. <a href=November_17.zip> Homework Review and Monte Carlo for Serial Correlation</a>.
+    </p>
     <h3> POLS 209 </h3>
     <p align="justify" style="font-size:16px;"> This course is the "Introduction to Political Science Research" and focuses on familiarizing students with the fundamentals of conducting social science research, such as building causal theories and utilizing common statistical software (`R`) to evaluate hypotheses with observational data. I held weekly recitation sessions where I elaborated on topics discussed during lectures and demonstrated the use of `R`. </p>
     <h4 style="margin-left: 10px;"> Spring 2023 </h4>
