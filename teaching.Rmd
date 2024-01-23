@@ -24,7 +24,7 @@ title: "&#32;"
     <h3> POLS 209 </h3>
     <p align="justify" style="font-size:16px;"> In Spring 2023, I was one teaching assistant for 209. This course is the "Introduction to Political Science Research" and focuses on familiarizing students with the fundamentals of conducting social science research, such as building causal theories and utilizing common statistical software (`R`) to evaluate hypotheses with observational data. I graded assignments and held weekly recitation sessions where I elaborated on topics discussed during lectures and demonstrated the use of `R`. I taught two sections with a combined 50 students. The course evaluations are below, with questions 8-10 most related to my teaching. </p>
     <p align="justify" style="font-size:16px;"> <a href=teaching_files/209_900_evaluation.pdf >Course evaluation</a> for section 900. </p>
-    <p align="justify" style="font-size:16px;"> <a href=teaching_files/209_900_evaluation.pdf >Course evaluation</a> for section 902. </p>
+    <p align="justify" style="font-size:16px;"> <a href=teaching_files/209_902_evaluation.pdf >Course evaluation</a> for section 902. </p>
     <h3> POLS 200 </h3>
     <p align="justify" style="font-size:16px;"> In Fall 2021 and for both semesters in 2022 I was one teaching assistant for 200. This class, titled the "Foundations of Political Science," is the introductory course in political science at A&M. It exposes students to historically important substantive work in the field and briefly discusses basic quantitative research methods and ideas, such as linear regression and experimental settings. The course evaluations are below where question items 8-10 most pertain to the teaching assistant.
     </p>
