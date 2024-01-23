@@ -16,23 +16,23 @@ title: "&#32;"
 <section>
   <h1> Publications </h1>
     <h3> Book Chapters </h3>
-    <h4 style="margin-left: 10px;"> Dunaway, Johanna and Nicholas N. Ray. Forthcoming. <a href=Dunaway,_Ray,_Lawrence_and_Napoli_Pre-Print_Copy.pdf> "Communication Technology and Threats to Democracy: We Are (Also) the Problem."</a> In <a href=https://www.taylorfrancis.com/books/edit/10.4324/9781003257998/news-quality-digital-age-regina-lawrence-philip-napoli> News Quality in the Digital Age</a>, edited by Regina Lawrence and Philip Napoli. New York: Routledge. </h4>
+    <h4 style="margin-left: 10px;"> Dunaway, Johanna and Nicholas N. Ray. Forthcoming. <a href=research_files/Dunaway,_Ray,_Lawrence_and_Napoli_Pre-Print_Copy.pdf> "Communication Technology and Threats to Democracy: We Are (Also) the Problem."</a> In <a href=https://www.taylorfrancis.com/books/edit/10.4324/9781003257998/news-quality-digital-age-regina-lawrence-philip-napoli> News Quality in the Digital Age</a>, edited by Regina Lawrence and Philip Napoli. New York: Routledge. </h4>
     <p align="justify" style="font-size:16px;margin-left: 50px;"> Abstract: We argue that academic discussions of digital media and its effects need to more heavily consider how individuals process digital information and not just how much or what kinds they are exposed to. Moreover, we highlight that digital media maintains attributes of more traditional media that qualifies its expected political impact.
     </p>
 </section>
 
 <section>
   <h1> Working Papers </h1>
-    <h4 style="margin-left: 10px;"> Ray, Nicholas N. 2023. <a href=Borrowing_Behavior.pdf> "Borrowing Behavior: How Governments Take Advantage of Lender Competition in Africa."</a> </h4>
+    <h4 style="margin-left: 10px;"> Ray, Nicholas N. 2023. <a href=research_files/Borrowing_Behavior.pdf> "Borrowing Behavior: How Governments Take Advantage of Lender Competition in Africa."</a> </h4>
     <p align="justify" style="font-size:16px;margin-left: 50px;"> Abstract: Despite the growth of scholarly work documenting alleged competition between China and the World bank in offering development assistance to Africa and various implications for the subsequent well-being of African countries, there is almost no work studying how African countries manage the options available to them. I argue that African governments borrow from China to induce fewer loan conditions from the World Bank while continuing to borrow from the World Bank to offset potential downsides associated with Chinese debt. I test three implications of this theory using observational data on all 54 African countries from 2004 to 2017. No evidence is found for the implications but future opportunities are discussed for this line of research.
     </p>
-    <p style="margin-left: 50px;"> <a href=https://github.com/nnray/Borrowing_Behavior>Replication Code and Data <i class="fa fa-github fa-lg"></i></a>
+    <p style="margin-left: 50px;"> <a href=https://github.com/nnray/Borrowing_Behavior >Replication Code and Data <i class="fa fa-github fa-lg"></i></a>
     </p>
-    <h4 style="margin-left: 10px;"> Ray, Nicholas N. 2023. <a href=Globalization_and_Compensation.pdf> "Globalization and Compensation."</a> </h4>
+    <h4 style="margin-left: 10px;"> Ray, Nicholas N. 2023. <a href=research_files/Globalization_and_Compensation.pdf > "Globalization and Compensation."</a> </h4>
     <p align="justify" style="font-size:16px;margin-left: 50px;"> Abstract: I argue that political elites have chosen not to compensate the potential losers of globalization because there is either a lack of adequate demand from voters, too low of a threat from populist entrants, or too high of a threat from traditional rivals. Using several proxies for these mechanisms, I test implications on 49 countries from 1990-2020. No evidence is found for the theory but the potential for empirical and theoretical refinements is possibly high.
     </p>
     <p style="margin-left: 50px;"> <a href=https://github.com/nnray/Globalization_and_Compensation>Replication Code and Data <i class="fa fa-github fa-lg"></i></a>
-    <h4 style="margin-left: 50px;"> - <a href=Measuring_Globalization_and_Compensation.pdf> "Measuring Globalization and Compensation."</a> </h4>
+    <h4 style="margin-left: 50px;"> - <a href=research_files/Measuring_Globalization_and_Compensation.pdf > "Measuring Globalization and Compensation."</a> </h4>
     <p align="justify" style="font-size:16px;margin-left: 90px;"> A discussion of my recent attempts to directly measure potential forms of compensation.
     </p>
 </section>
