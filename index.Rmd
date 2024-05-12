@@ -17,13 +17,11 @@ title: "&#32;"
 <h1 align="right"> Academic Biography </h1>
   <p> <img src="index_files/Self-Portrait.jpg" style="float:left;padding:10px;width:450px;height:450px;">
   </p>
-  <p align="justify" style = "font-size:20px;margin-bottom:2cm;"> I am a political science PhD student at Texas A&M University-College Station majoring in comparative politics and minoring in international relations and quantitative methods. I study political economy and have interests in both comparative political economy and international political economy. My current research interests are more comparative and center on understanding who has lost from globalization and the variation in how they have been compensated.
-  </p>
-  <p align="center" style = "font-size:20px;margin-bottom:3cm;">
+  <p align="justify" style = "font-size:20px;margin-bottom:2cm;"> I am a political science PhD student at Texas A&M University-College Station majoring in comparative politics and minoring in international relations and quantitative methods. I study political economy and have interests in both comparative political economy and international political economy. My current research interests are more comparative and center on understanding who has lost from globalization and the variation in how they have been compensated. </p>
+  <p align="center" style = "font-size:20px;margin-bottom:1cm;"><a href=index_files/Ray_CV.pdf>Curriculum Vitae <img src="index_files/cv.png" style="width:24px;height:24px;"></a> </p>
+  <p align="center" style = "font-size:20px;margin-bottom:2cm;">
   <a href = "mailto: nnray@tamu.edu"> <img src="index_files/gmail.png" style="width:24px;height:20px;"></a>
-  <a href=index_files/Ray_CV.pdf>  <img src="index_files/cv.png" style="width:24px;height:24px;"></a> 
-  <a href=https://orcid.org/0000-0003-2766-9567><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24"/></a> 
-  <a href=https://github.com/nnray> <i class="fa fa-github fa-lg" style=" vertical-align: middle;" ></i></a>
+  <a href=https://orcid.org/0000-0003-2766-9567><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24"/></a>
   <a href=https://scholar.google.com/citations?hl=en&user=d9-Ls4YAAAAJ> <img src="index_files/googlescholar.png" style="width:24px;height:24px;"></a>
   <a href=https://bush.tamu.edu/pols/degrees/phd/nray/> <img src="index_files/TAM-LogoBox.png" style="width:30px;height:30px;"></a>
   </p>
