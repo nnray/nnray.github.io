@@ -1,0 +1,9 @@
+<section>
+<h1 align="left"> Personal Interests </h1>
+  <p> <img src="index_files/Books.jpg" style="float:right;padding:10px;width:450px;height:450px">
+  </p>
+  <p align="justify" style="font-size:20px;"> I like to read and build my small library. I enjoy mostly non-fiction, including philosophy and books about both the social and natural sciences. My favorite book is Plutarch's <a href=https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/lives/home.html><u>Lives of the Noble Greeks and Romans</u></a>- or simply, Plutarch's <u>Lives</u>.
+  </p>
+  <p align="justify" style="font-size:20px;"> I also enjoy running. One of my favorite things to do is to trail run in a state park or at the nearby Lake Bryan.
+  </p>
+</section>

@@ -18,20 +18,33 @@ title: "&#32;"
   <h2> Book Chapters </h2>
   <h3> "Communication Technology and Threats to Democracy: We Are (Also) the Problem." Johanna Dunaway and Nicholas Ray. 2023.</h3>
   <p align="center" style = "font-size:20px;"> 
-  <a href = research_files/Dunaway,_Ray,_Lawrence_and_Napoli_Pre-Print_Copy.pdf>Paper <img src="teaching_files/evaluation.png" style="width:24px;height:20px;padding:1px;"></a> </p>
+  <a href = research_files/Dunaway,_Ray,_Lawrence_and_Napoli_Pre-Print_Copy.pdf>Paper <img src="research_files/paper.png" style="width:24px;height:20px;padding:1px;"></a> </p>
   <p align="justify" style="font-size:16px;margin-left:50px;margin-bottom:1.5cm;"> We argue that the scholarship on digital media and its effects need to consider how individuals process digital information and not only on what they are exposed to. We highlight that digital media maintains attributes of more traditional media that qualifies its expected political impact. In <a href=https://www.taylorfrancis.com/books/edit/10.4324/9781003257998/news-quality-digital-age-regina-lawrence-philip-napoli> News Quality in the Digital Age</a>, edited by Regina Lawrence and Philip Napoli. New York: Routledge.</p>
   <h1> Working Papers </h1>
-  <div id="div_id"></div> 
+  <a id="globalization"></a> 
   <h3> "Explaining the Populist Backlash: Trade, Partisan Collusion, and the Underprovision of Compensation." Nicholas Ray. 2024.  </h3>
   <p align="center" style = "font-size:20px;"> 
-  <a href = research_files/Paper.pdf>Paper <img src="teaching_files/evaluation.png" style="width:24px;height:20px;padding:1px;"></a>
-  <a href=research_files/replication_files.zip> Replication Files <img src="teaching_files/evaluation.png" style="width:24px;height:24px;padding:1px;"></a> 
+  <a href = research_files/Paper.pdf>Paper <img src="research_files/paper.png" style="width:24px;height:20px;padding:1px;"></a>
+  <a href=research_files/replication_files.zip> Replication Files <img src="research_files/replication.png" style="width:24px;height:24px;padding:1px;"></a> 
   </p>
-  <p align="justify" style="font-size:16px;margin-left: 50px;"> In this paper I explain why political elites in developed democracies have not provided more compensation to the losers of globalization. This is a puzzle because the lack of compensation has contributed to a globalization backlash that has hurt incumbent political elites who should have anticipated it. I argue that more compensation has not been provided because political elites have been able to tacitly collude to reduce the possibility of an electoral backlash to globalization and a lack of compensation. I test the implications of my argument with observational panel data and find partial support for my hypotheses. </p>
+  <p align="justify" style="font-size:16px;margin-left: 50px;"> In this paper I explain why political elites in developed democracies have not provided more compensation to the losers of globalization. This is a puzzle because the lack of compensation has contributed to a globalization backlash that has hurt incumbent political elites who should have anticipated it. I argue that more compensation has not been provided because political elites have been able to tacitly collude to reduce the possibility of an electoral backlash to globalization and a lack of compensation. I test the implications of my argument with observational panel data and find partial support for my hypotheses.
+  </p>
+  <a id="borrowing"></a>
   <h3> "Explaining the Borrowing Behavior of African Countries: China and Competition with the World Bank." Nicholas Ray and Mthokozisi Ndhlovu. 2024. </h3>
   <p align="center" style = "font-size:20px;"> 
-  <a href = research_files/Borrowing_Behavior.pdf>Paper <img src="teaching_files/evaluation.png" style="width:24px;height:20px;padding:1px;"></a>
+  <a href = research_files/Borrowing_Behavior.pdf>Paper <img src="research_files/paper.png" style="width:24px;height:20px;padding:1px;"></a>
+  <a href = research_files/replication_files3.zip>Replication Files <img src="research_files/replication.png" style="width:24px;height:20px;padding:1px;"></a>
   </p>
   <p align="justify" style="font-size:16px;margin-left: 50px;"> Despite the growth of scholarly work documenting alleged competition between China and the World bank in offering development assistance to Africa and various implications for the subsequent well-being of African countries, there is almost no work studying how African countries manage the options available to them. I argue that African governments borrow from China to induce fewer loan conditions from the World Bank while continuing to borrow from the World Bank to offset potential downsides associated with Chinese debt. I test three implications of this theory using observational data on all 54 African countries from 2004 to 2017. No evidence is found for the implications but future opportunities are discussed for this line of research.
-    </p>
+  </p>
+  <a id="conflict"></a>
+  <h3> "Observing Costly Signals." Nicholas Ray. 2024. </h3>
+  <p align="center" style = "font-size:20px;"> 
+  <a href = research_files/Paper2.pdf>Paper <img src="research_files/paper.png" style="width:24px;height:20px;padding:1px;"></a>
+  <a href=research_files/replication_files2.zip> Replication Files <img src="research_files/replication.png" style="width:24px;height:24px;padding:1px;"></a> 
+  </p>
+  <p align="justify" style="font-size:16px;margin-left: 50px;"> Quek (2021) expands on the traditional understanding of costly signaling to argue there are four costs a state can send. I code them in all real-world crises that occurred between states since WWII. Relative to costless actions, I find that sunk costs are associated with worse outcomes in crises for states that sent them and tying-hands costs are associated with better outcomes. Reducible and installment costs are not statistically better than costless actions. My findings are in line with recent work highlighting both the efficacy of costless actions and the possible inferiority of sunk cost actions. This raises a puzzle: why would a state use sunk costs instead of costless actions or other cost types that appear more effective?.
+  </p>
+  <p> <img src="research_files/costs.png" style="float:center;padding:10px;width:1000px;height:500px;padding-left: 150px;">
+  </p>
 </section>
