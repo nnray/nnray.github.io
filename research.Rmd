@@ -25,7 +25,7 @@ title: "&#32;"
   <h3> "Explaining the Populist Backlash: Trade, Partisan Collusion, and the Underprovision of Compensation." Nicholas Ray. 2024.  </h3>
   <p align="center" style = "font-size:20px;"> 
   <a href = research_files/Paper.pdf>Paper <img src="research_files/paper.png" style="width:24px;height:20px;padding:1px;"></a>
-  <a href=research_files/replication_files.zip> Replication Files <img src="research_files/replication.png" style="width:24px;height:24px;padding:1px;"></a> 
+  <a href=https://www.dropbox.com/scl/fi/jyxf0hcuyxy6ti8vys8f0/replication_files.zip?rlkey=mjushzg11lrnx0nmhszyfydmm&st=9ttn551w&dl=0> Replication Files <img src="research_files/replication.png" style="width:24px;height:24px;padding:1px;"></a> 
   </p>
   <p align="justify" style="font-size:16px;margin-left: 50px;"> In this paper I explain why political elites in developed democracies have not provided more compensation to the losers of globalization. This is a puzzle because the lack of compensation has contributed to a globalization backlash that has hurt incumbent political elites who should have anticipated it. I argue that more compensation has not been provided because political elites have been able to tacitly collude to reduce the possibility of an electoral backlash to globalization and a lack of compensation. I test the implications of my argument with observational panel data and find partial support for my hypotheses.
   </p>
@@ -33,7 +33,7 @@ title: "&#32;"
   <h3> "Explaining the Borrowing Behavior of African Countries: China and Competition with the World Bank." Nicholas Ray and Mthokozisi Ndhlovu. 2024. </h3>
   <p align="center" style = "font-size:20px;"> 
   <a href = research_files/Borrowing_Behavior.pdf>Paper <img src="research_files/paper.png" style="width:24px;height:20px;padding:1px;"></a>
-  <a href = research_files/replication_files3.zip>Replication Files <img src="research_files/replication.png" style="width:24px;height:20px;padding:1px;"></a>
+  <a href =https://www.dropbox.com/scl/fi/5t0o70mnisz7tixcnzlbz/replication_files3.zip?rlkey=9780mnb7robqmmg4013ur047n&st=q7nghri6&dl=0>Replication Files <img src="research_files/replication.png" style="width:24px;height:20px;padding:1px;"></a>
   </p>
   <p align="justify" style="font-size:16px;margin-left: 50px;"> Despite the growth of scholarly work documenting alleged competition between China and the World bank in offering development assistance to Africa and various implications for the subsequent well-being of African countries, there is almost no work studying how African countries manage the options available to them. I argue that African governments borrow from China to induce fewer loan conditions from the World Bank while continuing to borrow from the World Bank to offset potential downsides associated with Chinese debt. I test three implications of this theory using observational data on all 54 African countries from 2004 to 2017. No evidence is found for the implications but future opportunities are discussed for this line of research.
   </p>
@@ -41,7 +41,7 @@ title: "&#32;"
   <h3> "Observing Costly Signals." Nicholas Ray. 2024. </h3>
   <p align="center" style = "font-size:20px;"> 
   <a href = research_files/Paper2.pdf>Paper <img src="research_files/paper.png" style="width:24px;height:20px;padding:1px;"></a>
-  <a href=research_files/replication_files2.zip> Replication Files <img src="research_files/replication.png" style="width:24px;height:24px;padding:1px;"></a> 
+  <a href=https://www.dropbox.com/scl/fi/tiasgwx4j6aa25eqkpljx/replication_files2.zip?rlkey=gehdr1pqvej92d0yi41d1liup&st=gbnnwfz0&dl=0> Replication Files <img src="research_files/replication.png" style="width:24px;height:24px;padding:1px;"></a> 
   </p>
   <p align="justify" style="font-size:16px;margin-left: 50px;"> Quek (2021) introduces two new ways states can credibly signal their resolve. In addition to creating tying-hands and sunk costs, states can generate reducible and installment costs to credibly signal their resolve. I code the costs that states produce by evaluating all international crises since WWII. Relative to costless actions, I find that sunk costs are associated with worse outcomes in crises for states that created them and tying-hands costs are associated with better outcomes. Reducible and installment costs are not statistically better than costless actions. These results are in line with recent work highlighting both the efficacy of costless actions and the inferiority of sunk cost actions. This raises a puzzle: why would a state use sunk costs instead of costless actions or other cost types that appear more effective?
   </p>
