@@ -14,9 +14,6 @@ title: "&#32;"
   <meta Classes/>
 </head>
 <section>
-  <h1> ICPSR (University of Michigan) </h1>
-  <h3> Time Series</h3>
-  <p align="justify" style="font-size:16px;margin-left: 50px;margin-bottom:1.5cm;"> In Summer 2024 I will be a teaching assistant for a time series course at the <a href=https://www.icpsr.umich.edu/web/pages/sumprog/courses/three-week-sessions.html >Inter-university Consortium for Political and Social Research (ICPSR)</a>. </p>
   <h1> Texas A&M University </h1>
   <p align="justify" style="font-size:16px;"> Click the following links for the official course descriptions for political science (POLS) <a href=https://catalog.tamu.edu/undergraduate/course-descriptions/pols/ >undergraduate</a> and <a href=https://catalog.tamu.edu/graduate/course-descriptions/pols/ >graduate classes</a>. </p>
   <h3> Maximum Likelihood Estimation (POLS 603)</h3>
@@ -40,6 +37,8 @@ title: "&#32;"
   <p align="center" style = "font-size:20px;"> 
   <a href=teaching_files/200_evaluations.zip> Evaluations <img src="teaching_files/evaluation.png" style="width:24px;height:24px;padding:1px;"></a> 
   </p>
-  <p align="justify" style="font-size:16px;margin-left: 50px;"> In Fall 2021 and for both semesters in 2022 I was a teaching assistant for this undergraduate class introducing students to political science literature. The class exposes students to historically important substantive work in the field and briefly discusses basic quantitative research methods and ideas, such as linear regression and experiments. In Fall 2021 and Spring 2022 I taught about 20 students whereas in Fall 2022 I taught 42. I led weekly discussion sections and graded assignments. The course evaluations can be found above with question items 8-10 most pertain to the teaching assistant.
-  </p>
+  <p align="justify" style="font-size:16px;margin-left:50px;margin-bottom:1.5cm;"> In Fall 2021 and for both semesters in 2022 I was a teaching assistant for this undergraduate class introducing students to political science literature. The class exposes students to historically important substantive work in the field and briefly discusses basic quantitative research methods and ideas, such as linear regression and experiments. In Fall 2021 and Spring 2022 I taught about 20 students whereas in Fall 2022 I taught 42. I led weekly discussion sections and graded assignments. The course evaluations can be found above with question items 8-10 most pertain to the teaching assistant. </p>
+  <h1> ICPSR (University of Michigan) </h1>
+  <h3> Time Series</h3>
+  <p align="justify" style="font-size:16px;margin-left: 50px;margin-bottom:1.5cm;"> In Summer 2024 I will be the teaching assistant for a time series course at the <a href=https://www.icpsr.umich.edu/web/pages/sumprog/courses/three-week-sessions.html >Inter-university Consortium for Political and Social Research (ICPSR)</a>. The course is in the second session and is titled ``Methods and Models for Time Series Data Analysis.'' </p>
 </section>
