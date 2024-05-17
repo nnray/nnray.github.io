@@ -49,6 +49,6 @@ title: "&#32;"
   <h1> ICPSR (University of Michigan) </h1>
   <div style="padding:5px;border:0.5px solid black;margin:10px;padding-right:50px;">
   <h3> Time Series</h3>
-  <p align="justify" style="font-size:16px;margin-left: 50px;margin-bottom:1.5cm;"> In Summer 2024 I will be the teaching assistant for a time series course at the <a href=https://www.icpsr.umich.edu/web/pages/sumprog/courses/three-week-sessions.html >Inter-university Consortium for Political and Social Research (ICPSR)</a>. The course is in the second session and is titled "Methods and Models for Time Series Data Analysis." </p>
+  <p align="justify" style="font-size:16px;margin-left: 50px;"> In Summer 2024 I will be the teaching assistant for a time series course at the <a href=https://www.icpsr.umich.edu/web/pages/sumprog/courses/three-week-sessions.html >Inter-university Consortium for Political and Social Research (ICPSR)</a>. The course is in the second session and is titled "Methods and Models for Time Series Data Analysis." </p>
   </div>
 </section>

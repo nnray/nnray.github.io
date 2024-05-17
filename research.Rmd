@@ -20,7 +20,7 @@ title: "&#32;"
   <h3> Johanna Dunaway and Nicholas Ray. 2023.<br> "Communication Technology and Threats to Democracy: We Are (Also) the Problem."</h3>
   <p align="center" style = "font-size:20px;margin-left: 50px;"> 
   <a href = research_files/Dunaway,_Ray,_Lawrence_and_Napoli_Pre-Print_Copy.pdf>Paper <img src="research_files/paper.png" style="width:24px;height:20px;padding:1px;"></a> </p>
-  <p align="justify" style="font-size:16px;margin-left:50px;margin-bottom:1.5cm;"> We argue that the scholarship on digital media and its effects need to consider how individuals process digital information and not only on what they are exposed to. We highlight that digital media maintains attributes of more traditional media that qualifies its expected political impact. In <a href=https://www.taylorfrancis.com/books/edit/10.4324/9781003257998/news-quality-digital-age-regina-lawrence-philip-napoli> News Quality in the Digital Age</a>, edited by Regina Lawrence and Philip Napoli. New York: Routledge.</p>
+  <p align="justify" style="font-size:16px;margin-left:50px;"> We argue that the scholarship on digital media and its effects need to consider how individuals process digital information and not only on what they are exposed to. We highlight that digital media maintains attributes of more traditional media that qualifies its expected political impact. In <a href=https://www.taylorfrancis.com/books/edit/10.4324/9781003257998/news-quality-digital-age-regina-lawrence-philip-napoli> News Quality in the Digital Age</a>, edited by Regina Lawrence and Philip Napoli. New York: Routledge.</p>
   </div>
   <h1> Working Papers </h1>
   <a id="globalization"></a> 
