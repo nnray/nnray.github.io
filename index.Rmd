@@ -12,8 +12,8 @@ title: "&#32;"
   </script>
   <meta Political Science/>
   <meta Texas A&M University/>
-  <title>My Page Title</title>
-  <link rel="shortcut icon" type="image/png" href="index_files/cv.png"/>
+  <title>Nicholas N Ray</title>
+  <link rel="icon" type="image/png" href="index_files/favicon.png"/>
 </head>
 <section>
   <p> <img src="index_files/Self-Portrait.jpg" style="float:left;padding:10px;width:550px;height:450px;padding-right: 100px;">
