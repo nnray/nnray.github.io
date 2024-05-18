@@ -19,7 +19,7 @@ title: "&#32;"
   <p> <img src="index_files/Self-Portrait.jpg" style="float:left;padding:10px;width:550px;height:450px;padding-right: 100px;">
   </p>
   <p align="justify" style = "font-size:20px;margin-bottom:1cm;"> I am a political science PhD student at Texas A&M University majoring in comparative politics and minoring in international relations and quantitative methods. I mainly study political economy, with my current research interests being in <a href="https://nicholasnray.com/research.html#globalization">explaining the backlash to globalization and the lack of compensation</a>. I also have research interests in <a href="https://nicholasnray.com/research.html#conflict">international conflict</a> and <a href="https://nicholasnray.com/research.html#borrowing">foreign aid</a>. </p>
-  <p align="center" style = "font-size:20px;margin-bottom:0.5cm;"><a href=index_files/Ray_CV.pdf>Curriculum Vitae <img src="index_files/cv.png" style="width:24px;height:24px;"></a> </p>
+  <p align="center" style = "font-size:25px;margin-bottom:0.5cm;"><a href=index_files/Ray_CV.pdf>Curriculum Vitae <img src="index_files/cv.png" style="width:24px;height:24px;"></a> </p>
   <p align="center" style = "font-size:20px;">
   <a href = "mailto: nnray@tamu.edu"> <img src="index_files/gmail.png" style="width:24px;height:20px;"></a>
   <a href=https://orcid.org/0000-0003-2766-9567><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24"/></a>
