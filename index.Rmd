@@ -2,6 +2,10 @@
 title: "&#32;"
 ---
 <head> <meta Nicholas Norfleet Ray/>
+  <meta Political Science/>
+  <meta Texas A&M University/>
+  <title> Nicholas N Ray </title>
+  <link rel="icon" type="image/png" href="index_files/favicon.png" width="16px" height="16px"/>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-2BJ6GPSDGY"></script>
   <script>
@@ -10,10 +14,6 @@ title: "&#32;"
     gtag('js', new Date());
     gtag('config', 'G-2BJ6GPSDGY');
   </script>
-  <meta Political Science/>
-  <meta Texas A&M University/>
-  <title>Nicholas N Ray</title>
-  <link rel="icon" type="image/png" href="index_files/favicon.png" width="16" height="16"/>
 </head>
 <section>
   <p> <img src="index_files/Self-Portrait.jpg" style="float:left;padding:10px;width:550px;height:450px;padding-right: 100px;">
