@@ -5,7 +5,7 @@ title: "&#32;"
   <meta Political Science/>
   <meta Texas A&M University/>
   <title> Nicholas N Ray </title>
-  <link rel="icon" type="image/png" href="index_files/favicon.png" width="16px" height="16px"/>
+  <link rel="icon" type="image/png" href="index_files/favicon.png"/>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-2BJ6GPSDGY"></script>
   <script>
