@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Ray"
+title: "Nicholas N Ray"
 css: style.css
 output:
   html_document:
