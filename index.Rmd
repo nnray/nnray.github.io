@@ -7,10 +7,6 @@ output:
       in_header: header.html
 ---
 <head> <meta Nicholas Norfleet Ray/>
-  <meta Political Science/>
-  <meta Texas A&M University/>
-  <title> Nicholas N Ray </title>
-  <link rel="icon" type="image/png" href="index_files/favicon.png"/>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-2BJ6GPSDGY"></script>
   <script>
