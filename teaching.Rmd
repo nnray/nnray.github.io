@@ -1,5 +1,10 @@
 ---
-title: "&#32;"
+title: "Nicholas Ray"
+css: style.css
+output:
+  html_document:
+    includes:
+      in_header: header.html
 ---
 <head> <meta Nicholas Norfleet Ray/>
   <!-- Google tag (gtag.js) -->
