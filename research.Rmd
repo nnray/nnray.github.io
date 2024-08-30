@@ -31,12 +31,12 @@ output:
   <h1> Working Papers </h1>
   <a id="globalization"></a> 
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
-  <h3> Nicholas Ray.<br> "Explaining the Populist Backlash: Trade, Partisan Collusion, and the Underprovision of Compensation." </h3>
+  <h3> Nicholas Ray.<br> "Explaining Compensation Failure: Trade, Partisan Collusion, and the Underprovision of Compensation." </h3>
   <p align="center" style = "font-size:20px;"> 
   <a href = research_files/Paper.pdf>Read <i class="fas fa-book-open"></i></a>&emsp;
-  <a href=https://www.dropbox.com/scl/fi/jyxf0hcuyxy6ti8vys8f0/replication_files.zip?rlkey=mjushzg11lrnx0nmhszyfydmm&st=9ttn551w&dl=0> Replication Files <i class="fas fa-folder-open"></i></a> 
+  <a href=https://www.dropbox.com/scl/fi/jyxf0hcuyxy6ti8vys8f0/replication_files.zip?rlkey=mjushzg11lrnx0nmhszyfydmm&st=bo3s3f5y&dl=0> Replication Files <i class="fas fa-folder-open"></i></a> 
   </p>
-  <p align="justify" style="font-size:16px;"> In this paper I explain why political elites in developed democracies have not provided more compensation to the losers of globalization. This is a puzzle because the lack of compensation has contributed to a globalization backlash that has hurt incumbent political elites who should have anticipated it. I argue that more compensation has not been provided because political elites have been able to tacitly collude to reduce the possibility of an electoral backlash to globalization and a lack of compensation. I test the implications of my argument with observational panel data and find partial support for my hypotheses.
+  <p align="justify" style="font-size:16px;"> I argue it is puzzling that there has not been more compensation for the losers of globalization. My explanation is that political elites can reduce the expected costs of not providing compensation by choosing not to compete over compensation. The losers then find it difficult to hold elites accountable for not providing compensation and elites can focus on providing gains from trade to the majority of voters. I provide evidence for this argument with observational panel data showing that the marginal effect of import competition decreases under the theoretical conditions I specify which allow elites to cooperate.
   </p>
   </div>
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
