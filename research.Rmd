@@ -24,7 +24,7 @@ output:
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
   <h3> Johanna Dunaway and Nicholas Ray. 2023.<br> "Communication Technology and Threats to Democracy: We Are (Also) the Problem."</h3>
   <p align="center" style = "font-size:20px;"> 
-  <a href = research_files/Dunaway,_Ray,_Lawrence_and_Napoli_Pre-Print_Copy.pdf>Read <i class="fas fa-book-open"></i></a> </p>
+  <a href = research_files/Dunaway_Ray_Pre-Print.pdf>Read <i class="fas fa-book-open"></i></a> </p>
   <p align="justify" style="font-size:16px;"> We argue that the scholarship on digital media and its effects need to consider how individuals process digital information and not only on what they are exposed to. We highlight that digital media maintains attributes of more traditional media that qualifies its expected political impact. In <a href=https://www.taylorfrancis.com/books/edit/10.4324/9781003257998/news-quality-digital-age-regina-lawrence-philip-napoli> News Quality in the Digital Age</a>, edited by Regina Lawrence and Philip Napoli. New York: Routledge.</p>
   </div>
   <br>
@@ -33,7 +33,7 @@ output:
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
   <h3> Nicholas Ray.<br> "Explaining Compensation Failure: Trade, Partisan Collusion, and the Underprovision of Compensation." </h3>
   <p align="center" style = "font-size:20px;"> 
-  <a href = research_files/Paper.pdf>Read <i class="fas fa-book-open"></i></a>&emsp;
+  <a href = research_files/Explaining_Compensation_Failure.pdf>Read <i class="fas fa-book-open"></i></a>&emsp;
   <a href=https://www.dropbox.com/scl/fi/jyxf0hcuyxy6ti8vys8f0/replication_files.zip?rlkey=mjushzg11lrnx0nmhszyfydmm&st=nyzzg7po&dl=0> Replication Files <i class="fas fa-folder-open"></i></a> 
   </p>
   <p align="justify" style="font-size:16px;"> I argue it is puzzling that there has not been more compensation for the losers of globalization. My explanation is that political elites can reduce the expected costs of not providing compensation by choosing not to compete over compensation. The losers then find it difficult to hold elites accountable for not providing compensation and elites can focus on providing gains from trade to the majority of voters. I provide evidence for this argument with observational panel data showing that the marginal effect of import competition decreases under the theoretical conditions I specify which allow elites to cooperate.
@@ -53,7 +53,7 @@ output:
   <a id="conflict"></a>
   <h3> Nicholas Ray. <br> "Observing Costly Signals."</h3>
   <p align="center" style = "font-size:20px;"> 
-  <a href = research_files/Paper2.pdf>Read <i class="fas fa-book-open"></i></a>&emsp;
+  <a href = research_files/Observing_Costly_Signals.pdf>Read <i class="fas fa-book-open"></i></a>&emsp;
   <a href=https://www.dropbox.com/scl/fi/tiasgwx4j6aa25eqkpljx/replication_files2.zip?rlkey=gehdr1pqvej92d0yi41d1liup&st=gbnnwfz0&dl=0> Replication Files <i class="fas fa-folder-open"></i></a> 
   </p>
   <p align="justify" style="font-size:16px;"> Quek (2021) introduces two new ways states can credibly signal their resolve. In addition to creating tying-hands and sunk costs, states can generate reducible and installment costs to credibly signal their resolve. I code the costs that states produce by evaluating all international crises since WWII. Relative to costless actions, I find that sunk costs are associated with worse outcomes in crises for states that created them and tying-hands costs are associated with better outcomes. Reducible and installment costs are not statistically better than costless actions. These results are in line with recent work highlighting both the efficacy of costless actions and the inferiority of sunk cost actions. This raises a puzzle: why would a state use sunk costs instead of costless actions or other cost types that appear more effective?
