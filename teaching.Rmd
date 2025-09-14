@@ -8,62 +8,67 @@ output:
 ---
 <head> <meta Nicholas Norfleet Ray/>
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2BJ6GPSDGY"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-QJHBF9MPS6"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'G-2BJ6GPSDGY');
+    gtag('config', 'G-QJHBF9MPS6');
   </script>
   <meta Teaching/>
   <meta Classes/>
 </head>
 <section>
-  <h1> Texas A&M University </h1>
-  <p align="justify" style="font-size:16px;"> Click the following links for the official course descriptions for political science (POLS) <a href=https://catalog.tamu.edu/undergraduate/course-descriptions/pols/ >undergraduate</a> and <a href=https://catalog.tamu.edu/graduate/course-descriptions/pols/ >graduate classes</a>. </p>
+  <h1> Teaching Assistant </h1>
+  <h2 style="padding-left:50px;"> Texas A&M University </h2>
+  <p align="justify" style="font-size:16px;padding-left:50px;"> Click the following links for the official course descriptions for political science (POLS) <a href=https://catalog.tamu.edu/undergraduate/course-descriptions/pols/ >undergraduate</a> and <a href=https://catalog.tamu.edu/graduate/course-descriptions/pols/ >graduate classes</a>. </p>
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
-  <h3> Ordinary Least Squares (POLS 602)</h3>
-  <p align="center" style = "font-size:20px;"> 
-  <a href = teaching_files/602_2024_teaching_examples.zip>Teaching Examples <i class="fas fa-chalkboard-teacher"></i></a>&emsp;
+  <h3 style="padding-left:50px;"> Ordinary Least Squares (POLS 602)</h3>
+  <p align="center" style = "font-size:20px;padding-left:50px;"> 
+  <a href = teaching_files/602_2024_teaching_examples.zip>Teaching Materials <i class="fas fa-chalkboard-teacher"></i></a>&emsp;
   <a href=teaching_files/602_2024_evaluation.pdf#page=7> Evaluation <i class="fas fa-file"></i></a> 
   </p>
-  <p align="justify" style="font-size:16px;"> In Fall 2024 I was the teaching assistant for the graduate course on OLS taught by Dr. Matthew Malis. The class is part of the methods sequence for first-year PhD students in political science at A&M. It was my second time teaching OLS at the graduate level, and I led weekly recitations and graded assignments. Examples of the material I covered during recitations and the course evaluation can be found above. Questions 8-10 pertain to the teaching assistant.</p>
+  <p align="justify" style="font-size:16px;padding-left:50px;"> In Fall 2024 I was the teaching assistant for the graduate course on OLS taught by Dr. Matthew Malis. The class is part of the methods sequence for first-year PhD students in political science at A&M. It was my second time teaching OLS at the graduate level, and I led weekly recitations and graded assignments. Examples of the material I covered during recitations and the course evaluation can be found above. Questions 8-10 pertain to the teaching assistant.</p>
   </div>
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
-  <h3> Maximum Likelihood Estimation (POLS 603)</h3>
-  <p align="center" style = "font-size:20px;"> 
-  <a href = teaching_files/603_teaching_examples.zip>Teaching Examples <i class="fas fa-chalkboard-teacher"></i></a>&emsp;
+  <h3 style="padding-left:50px;"> Maximum Likelihood Estimation (POLS 603)</h3>
+  <p align="center" style = "font-size:20px;padding-left:50px;"> 
+  <a href = teaching_files/603_teaching_examples.zip>Teaching Materials <i class="fas fa-chalkboard-teacher"></i></a>&emsp;
   <a href=teaching_files/603_evaluation.pdf#page=7> Evaluation <i class="fas fa-file"></i></a>
   </p>
-  <p align="justify" style="font-size:16px;"> In Spring 2024 I was the teaching assistant for the graduate course on MLE taught by Dr. Scott Cook, the second half of the first-year methods sequence for first-year PhD students in political science at A&M. I led a weekly recitation and graded assignments. Examples of the material I covered during recitations and the course evaluation can be found above. Questions 8-10 pertain to the teaching assistant.</p>
+  <p align="justify" style="font-size:16px;padding-left:50px;"> In Spring 2024 I was the teaching assistant for the graduate course on MLE taught by Dr. Scott Cook, the second half of the first-year methods sequence for first-year PhD students in political science at A&M. I led a weekly recitation and graded assignments. Examples of the material I covered during recitations and the course evaluation can be found above. Questions 8-10 pertain to the teaching assistant.</p>
   </div>
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
-  <h3> Ordinary Least Squares (POLS 602) </h3>
-  <p align="center" style = "font-size:20px;"> 
-  <a href = teaching_files/602_2023_teaching_examples.zip>Teaching Examples <i class="fas fa-chalkboard-teacher"></i></a>&emsp;
+  <h3 style="padding-left:50px;"> Ordinary Least Squares (POLS 602) </h3>
+  <p align="center" style = "font-size:20px;padding-left:50px;"> 
+  <a href = teaching_files/602_2023_teaching_examples.zip>Teaching Materials <i class="fas fa-chalkboard-teacher"></i></a>&emsp;
   <a href=teaching_files/602_2023_evaluation.pdf#page=7> Evaluation <i class="fas fa-file"></i></a> 
   </p>
-  <p align="justify" style="font-size:16px;"> Fall 2023 was my first time being the teaching assistant for the graduate course on OLS, which was taught by Dr. Paul Kellstedt. I led weekly discussion sections and both created and graded assignments. Some examples of the assignments I created for students and the material I covered in discussion sections can be found above along with the course evaluation. Questions 8-10 pertain to the teaching assistant. </p>
+  <p align="justify" style="font-size:16px;padding-left:50px;"> Fall 2023 was my first time being the teaching assistant for the graduate course on OLS, which was taught by Dr. Paul Kellstedt. I led weekly discussion sections and both created and graded assignments. Some examples of the assignments I created for students and the material I covered in discussion sections can be found above along with the course evaluation. Questions 8-10 pertain to the teaching assistant. </p>
   </div>
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
-  <h3> Introduction to Research Methods (POLS 209)</h3>
-  <p align="center" style = "font-size:20px;"> 
-  <a href = teaching_files/209_teaching_examples.zip>Teaching Examples <i class="fas fa-chalkboard-teacher"></i></a>&emsp;
+  <h3 style="padding-left:50px;"> Introduction to Research Methods (POLS 209)</h3>
+  <p align="center" style = "font-size:20px;padding-left:50px;"> 
+  <a href = teaching_files/209_teaching_examples.zip>Teaching Materials <i class="fas fa-chalkboard-teacher"></i></a>&emsp;
   <a href=teaching_files/209_evaluations.zip> Evaluations <i class="fas fa-file"></i></a> 
   </p>
-  <p align="justify" style="font-size:16px;"> In Spring 2023 I was a teaching assistant for this undergraduate class introducing students to political science research methods, which was taught by Dr. Hyeran Jo. The course focuses on familiarizing students with the fundamentals of conducting social science research, such as building causal theories and utilizing common statistical software (`R`) to evaluate hypotheses with observational data. I graded assignments and held weekly recitations where I elaborated on topics discussed during lectures and demonstrated the use of `R`. I taught two sections with a combined 50 students. Course evaluations can be found above, with questions 8-10 related to my teaching. </p>
+  <p align="justify" style="font-size:16px;padding-left:50px;"> In Spring 2023 I was a teaching assistant for this undergraduate class introducing students to political science research methods, which was taught by Dr. Hyeran Jo. The course focuses on familiarizing students with the fundamentals of conducting social science research, such as building causal theories and utilizing common statistical software (`R`) to evaluate hypotheses with observational data. I graded assignments and held weekly recitations where I elaborated on topics discussed during lectures and demonstrated the use of `R`. I taught two sections with a combined 50 students. Course evaluations can be found above, with questions 8-10 related to my teaching. </p>
   </div>
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
-  <h3> Introduction to Political Science (POLS 200)</h3>
-  <p align="center" style = "font-size:20px;"> 
+  <h3 style="padding-left:50px;"> Introduction to Political Science (POLS 200)</h3>
+  <p align="center" style = "font-size:20px;padding-left:50px;"> 
   <a href=teaching_files/200_evaluations.zip> Evaluations <i class="fas fa-file"></i></a> 
   </p>
-  <p align="justify" style="font-size:16px;"> In Fall 2021 and for both semesters in 2022 I was a teaching assistant for this undergraduate class introducing students to political science literature. The class exposes students to historically important substantive work in the field and briefly discusses basic quantitative research methods and ideas, such as linear regression and experiments. In Fall 2021 and Spring 2022 I taught about 20 students whereas in Fall 2022 I taught 42. I led weekly discussion sections and graded assignments. The course evaluations can be found above with question items 8-10 most pertain to the teaching assistant. </p>
+  <p align="justify" style="font-size:16px;padding-left:50px;"> In Fall 2021 and for both semesters in 2022 I was a teaching assistant for this undergraduate class introducing students to political science literature. The class exposes students to historically important substantive work in the field and briefly discusses basic quantitative research methods and ideas, such as linear regression and experiments. In Fall 2021 and Spring 2022 I taught about 20 students whereas in Fall 2022 I taught 42. I led weekly discussion sections and graded assignments. The course evaluations can be found above with question items 8-10 most pertain to the teaching assistant. </p>
   </div>
   <br>
-  <h1> ICPSR (University of Michigan) </h1>
+  <h2 style="padding-left:50px;"> ICPSR (University of Michigan) </h2>
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
-  <h3> Time Series</h3>
-  <p align="justify" style="font-size:16px;"> In Summer 2024 I was the teaching assistant for time series during the second general session at the <a href=https://www.icpsr.umich.edu/web/pages/sumprog/courses/three-week-sessions.html >Inter-university Consortium for Political and Social Research (ICPSR)</a>. The course was titled "Methods and Models for Time Series Data Analysis" and was cotaught by Dr. Paul Kellstedt and Dr. Matthew Lebo. </p>
+  <h3 style="padding-left:50px;"> Time Series</h3>
+  <p align="justify" style="font-size:16px;padding-left:50px;"> In Summer 2024 I was the teaching assistant for time series during the second general session at the <a href=https://www.icpsr.umich.edu/sites/icpsr/sumprog/courses/general-sessions >Inter-university Consortium for Political and Social Research (ICPSR)</a>. The course was titled "Methods and Models for Time Series Data Analysis" and was cotaught by Dr. Paul Kellstedt and Dr. Matthew Lebo. </p>
+  </div>
+  <div style="padding:20px;border:0.5px solid black;margin:10px;">
+  <h3 style="padding-left:50px;"> Panel Data</h3>
+  <p align="justify" style="font-size:16px;padding-left:50px;"> In Summer 2025 I was one teaching assistant of two teaching assistants for the panel data and longitudinal analysis during the second general session at the <a href=https://www.icpsr.umich.edu/sites/icpsr/sumprog/courses/general-sessions >Inter-university Consortium for Political and Social Research (ICPSR)</a>. The course was titled "Panel Data and Longitudinal Analysis" and was cotaught by Dr. Andy Philips and Dr. Mark Pickup. </p>
   </div>
 </section>

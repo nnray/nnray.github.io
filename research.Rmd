@@ -8,55 +8,42 @@ output:
 ---
 <head> <meta Nicholas Norfleet Ray/>
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2BJ6GPSDGY"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-QJHBF9MPS6"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'G-2BJ6GPSDGY');
+    gtag('config', 'G-QJHBF9MPS6');
   </script>
   <meta Research/>
   <meta Working Papers/>
 </head>
 <section>
   <h1> Publications </h1>
-  <h2> Book Chapters </h2>
+  <h2 style="padding-left:50px;"> Book Chapters </h2>
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
-  <h3> Johanna Dunaway and Nicholas Ray. 2023.<br> "Communication Technology and Threats to Democracy: We Are (Also) the Problem."</h3>
-  <p align="center" style = "font-size:20px;"> 
+  <h3 style="padding-left:50px;"> Dunaway, Johanna and Nicholas Ray. 2023. "Communication Technology and Threats to Democracy: We Are (Also) the Problem."</h3>
+  <p align="center" style = "font-size:20px;padding-left:50px;"> 
   <a href = research_files/Dunaway_Ray_Pre-Print.pdf> Read <i class="fas fa-book-open"></i></a> </p>
-  <p align="justify" style="font-size:16px;"> We argue that the scholarship on digital media and its effects need to consider how individuals process digital information and not only on what they are exposed to. We highlight that digital media maintains attributes of more traditional media that qualifies its expected political impact. In <a href=https://www.taylorfrancis.com/books/edit/10.4324/9781003257998/news-quality-digital-age-regina-lawrence-philip-napoli> News Quality in the Digital Age</a>, edited by Regina Lawrence and Philip Napoli. New York: Routledge.</p>
+  <p align="justify" style="font-size:16px;padding-left:50px;"> We argue that the scholarship on digital media and its effects need to consider how individuals process digital information and not only on what they are exposed to. We highlight that digital media maintains attributes of more traditional media that qualifies its expected political impact. In <a href=https://www.taylorfrancis.com/books/edit/10.4324/9781003257998/news-quality-digital-age-regina-lawrence-philip-napoli> News Quality in the Digital Age</a>, edited by Regina Lawrence and Philip Napoli. New York: Routledge.</p>
   </div>
   <br>
   <h1> Working Papers </h1>
   <a id="globalization"></a> 
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
-  <h3> Nicholas Ray.<br> "Explaining Compensation Failure: Trade, Partisan Collusion, and the Underprovision of Compensation." </h3>
+  <h3> "Explaining Compensation Failure: Trade, Partisan Collusion, and the Underprovision of Compensation." </h3>
   <p align="center" style = "font-size:20px;"> 
   <a href = research_files/Explaining_Compensation_Failure.pdf>Read <i class="fas fa-book-open"></i></a>&emsp;
   <a href=https://www.dropbox.com/scl/fo/a60f44ahtda56idblzcpv/APXpHDmaPAeoOThHbFSz70E?rlkey=j5er9qwlvo92yejbb209btger&st=q0hj91d0&dl=0> Replication Files <i class="fas fa-folder-open"></i></a> 
   </p>
-  <p align="justify" style="font-size:16px;"> I argue it is puzzling that there has not been more compensation for the losers of globalization. My explanation is that political elites can reduce the expected costs of not providing compensation by choosing not to compete over compensation. The losers then find it difficult to hold elites accountable for not providing compensation and elites can focus on providing gains from trade to the majority of voters. I provide evidence for this argument with observational panel data showing that the marginal effect of import competition decreases under the theoretical conditions I specify which allow elites to cooperate.
+  <p align="justify" style="font-size:16px;"> Why has there not been more compensation for the losers of free trade? I make the novel argument that there has been a failure of compensation because political elites have tacitly colluded to avoid compensation. With the help of a simple formal model, I contend that political parties are better off implicitly agreeing to not increase compensation and instead compete over less costly issues. To evaluate the implication that import competition should cause less compensation as tacit collusion becomes more likely, I develop a two-part identification strategy. Firstly, I construct original shift-share instruments to estimate the effect of import competition on a measure of compensation. Secondly, I assess if this effect is moderated by how feasible tacit collusion is, which I estimate using latent variable analysis. For 24 European countries from 2000-2022, I show that a negative import shock causes less compensation on average as tacit collusion becomes more feasible.
   </p>
   </div>
+  <br>
+  <h1> Works in Progress </h1>
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
-  <a id="borrowing"></a>
-  <h3> Nicholas Ray and Mthokozisi Ndhlovu. <br> "Explaining the Borrowing Behavior of African Countries: China and Competition with the World Bank." </h3>
-  <p align="center" style = "font-size:20px;"> 
-  <a href = research_files/Borrowing_Behavior.pdf>Read <i class="fas fa-book-open"></i></a>&emsp;
-  <a href =https://www.dropbox.com/scl/fo/3ckl7gbyrne5gcpm715fg/AGr9y3IMGYwesuyKFJzsgqA?rlkey=8wkzzz2dwwj6row3mxqbhjpi0&st=vwovn87c&dl=0> Replication Files <i class="fas fa-folder-open"></i></a>
-  </p>
-  <p align="justify" style="font-size:16px;"> Despite the growth of scholarly work documenting alleged competition between China and the World bank in offering development assistance to Africa and various implications for the subsequent well-being of African countries, there is almost no work studying how African countries manage the options available to them. I argue that African governments borrow from China to induce fewer loan conditions from the World Bank while continuing to borrow from the World Bank to offset potential downsides associated with Chinese debt. I test three implications of this theory using observational data on all 54 African countries from 2004 to 2017. No evidence is found for the implications but future opportunities are discussed for this line of research.
-  </p>
-  </div>
-  <div style="padding:20px;border:0.5px solid black;margin:10px;">
-  <a id="conflict"></a>
-  <h3> Nicholas Ray. <br> "Observing Costly Signals."</h3>
-  <p align="center" style = "font-size:20px;"> 
-  <a href = research_files/Observing_Costly_Signals.pdf>Read <i class="fas fa-book-open"></i></a>&emsp;
-  <a href=https://www.dropbox.com/scl/fo/qbben6fw8kix96ds4zn10/AK5tdTQgjZ0F3Z723eQKD14?rlkey=nh7erp3suv3m1egivlmbva6pd&st=ypi6fqfn&dl=0> Replication Files <i class="fas fa-folder-open"></i></a> 
-  </p>
-  <p align="justify" style="font-size:16px;"> Quek (2021) introduces two new ways states can credibly signal their resolve. In addition to creating tying-hands and sunk costs, states can generate reducible and installment costs to credibly signal their resolve. I code the costs that states produce by evaluating all international crises since WWII. Relative to costless actions, I find that sunk costs are associated with worse outcomes in crises for states that created them and tying-hands costs are associated with better outcomes. Reducible and installment costs are not statistically better than costless actions. These results are in line with recent work highlighting both the efficacy of costless actions and the inferiority of sunk cost actions. This raises a puzzle: why would a state use sunk costs instead of costless actions or other cost types that appear more effective?
+  <h3> "Quantifying Compensation Failure: Common Measures of Compensation vs the Estimated Losses from Trade." </h3>
+  <p align="justify" style="font-size:16px;"> A lack of consensus on how to measure compensation to the losers of free trade has made it difficult to learn from studies that evaluate how well compensation has "worked." I clarify what we can learn from studies involving measures of compensation by comparing each to the theoretical concept and also to the estimated losses from free trade generated from quantitative trade models.
   </p>
   </div>
 </section>
