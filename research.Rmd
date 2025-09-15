@@ -18,17 +18,18 @@ output:
   <meta Research/>
   <meta Working Papers/>
 </head>
+
 <section>
   <h1>Publications</h1>
   <h2 style="padding-left:50px;">Book Chapters</h2>
   <div style="border:0.5px solid black; margin:10px; padding-left:50px; padding-right:20px; padding-top:20px; padding-bottom:20px;">
-    <h3>Dunaway, Johanna and Nicholas Ray. 2023. "Communication Technology and Threats to Democracy: We Are (Also) the Problem."</h3>
-    <p align="center" style="font-size:20px; margin:0;">
-      <a href="research_files/Dunaway_Ray_Pre-Print.pdf">Read <i class="fas fa-book-open"></i></a>
-    </p>
-    <p align="justify" style="font-size:16px; margin-top:10px;">
-      We argue that the scholarship on digital media and its effects need to consider how individuals process digital information and not only on what they are exposed to. We highlight that digital media maintains attributes of more traditional media that qualifies its expected political impact. In <a href="https://www.taylorfrancis.com/books/edit/10.4324/9781003257998/news-quality-digital-age-regina-lawrence-philip-napoli">News Quality in the Digital Age</a>, edited by Regina Lawrence and Philip Napoli. New York: Routledge.
-    </p>
+  <h3>Dunaway, Johanna and Nicholas Ray. 2023. "Communication Technology and Threats to Democracy: We Are (Also) the Problem."</h3>
+  <p align="center" style="font-size:20px; margin:0;">
+    <a href="research_files/Dunaway_Ray_Pre-Print.pdf">Read <i class="fas fa-book-open"></i></a>
+  </p>
+  <p align="justify" style="font-size:16px; margin-top:10px;">
+    We argue that the scholarship on digital media and its effects need to consider how individuals process digital information and not only on what they are exposed to. We highlight that digital media maintains attributes of more traditional media that qualifies its expected political impact. In <a href="https://www.taylorfrancis.com/books/edit/10.4324/9781003257998/news-quality-digital-age-regina-lawrence-philip-napoli">News Quality in the Digital Age</a>, edited by Regina Lawrence and Philip Napoli. New York: Routledge.
+  </p>
   </div>
   <br>
   <h1> Working Papers </h1>
