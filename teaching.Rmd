@@ -19,6 +19,13 @@ output:
   <meta Classes/>
 </head>
 <section>
+  <h1> Instructor of Record </h1>
+  <div style="padding:20px;border:0.5px solid black;margin:10px;">
+  <h3 style="padding-left:50px;"> Globalization and Democracy (POLS 328)</h3>
+  <p align="center" style = "font-size:20px;padding-left:50px;"> 
+  <a href = teaching_files/POLS_328_Syllabus_S26.pdf>Syllabus <i class="fas fa-chalkboard-teacher"></i></a>&emsp;
+  </p>
+  </div>
   <h1> Teaching Assistant </h1>
   <h2 style="padding-left:50px;"> Texas A&M University </h2>
   <p align="justify" style="font-size:16px;padding-left:50px;"> Click the following links for the official course descriptions for political science (POLS) <a href=https://catalog.tamu.edu/undergraduate/course-descriptions/pols/ >undergraduate</a> and <a href=https://catalog.tamu.edu/graduate/course-descriptions/pols/ >graduate classes</a>. </p>

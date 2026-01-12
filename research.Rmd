@@ -46,8 +46,9 @@ output:
   <br>
   <h1> Works in Progress </h1>
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
-  <h3> "Quantifying Compensation Failure: Common Measures of Compensation vs the Estimated Losses from Trade." </h3>
-  <p align="justify" style="font-size:16px;"> A lack of consensus on how to measure compensation to the losers of free trade has made it difficult to learn from studies that evaluate how well compensation has "worked." I clarify what we can learn from studies involving measures of compensation by comparing each to the theoretical concept and also to the estimated losses from free trade generated from quantitative trade models.
-  </p>
+  <h3> "Has There Been a Failure to Compensate the Losers From Free Trade?" </h3>
+  </div>
+  <div style="padding:20px;border:0.5px solid black;margin:10px;">
+  <h3> "How Much Should We Trust Clustered Standard Errors?" </h3>
   </div>
 </section>
