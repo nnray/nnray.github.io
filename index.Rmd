@@ -19,7 +19,7 @@ output:
 
 <section>
 
-  <p> <img src="index_files/headshot2.jpg" style="float:left;padding:10px;width:600px;height:706px;padding-right: 100px;">
+  <p> <img src="index_files/headshot2.jpg" style="float:left;padding:10px;width:500px;height:550px;padding-right: 100px;">
   </p>
   
   <p align="left" style = "font-size:20px;margin-bottom:1cm;padding-top: 100px;"> I am a business management Ph.D. student at the Mays Business School at Texas A&M University. Drawing on my background in political economy, I study nonmarket strategy and international business. My previous research in political science focused on how domestic political elites responded to the distributional consequences of free trade.</p>
