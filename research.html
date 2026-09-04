@@ -13,7 +13,7 @@
 
 <title>Nicholas N Ray</title>
 
-<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.32/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -225,6 +228,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -232,6 +298,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -303,15 +379,18 @@ $(document).ready(function () {
 <h1>
 Publications
 </h1>
-<h2 style="padding-left:50px;">
+<h2 style="padding-left:20px;">
 Book Chapters
 </h2>
 <div
 style="border:0.5px solid black; margin:10px; padding-left:50px; padding-right:20px; padding-top:20px; padding-bottom:20px;">
 <h3>
-Dunaway, Johanna and Nicholas Ray. 2023. “Communication Technology and
-Threats to Democracy: We Are (Also) the Problem.”
+“Communication Technology and Threats to Democracy: We Are (Also) the
+Problem.” (2023)
 </h3>
+<p align="left" style="font-size:20px;">
+Johanna Dunaway and Nicholas Ray
+</p>
 <p align="center" style="font-size:20px; margin:0;">
 <a href="research_files/Dunaway_Ray_Pre-Print.pdf">Read
 <i class="fas fa-book-open"></i></a>
@@ -327,7 +406,7 @@ Quality in the Digital Age</a>, edited by Regina Lawrence and Philip
 Napoli. New York: Routledge.
 </p>
 </div>
-<br>
+<p><br></p>
 <h1>
 Working Papers
 </h1>
@@ -337,6 +416,9 @@ Working Papers
 “Explaining Compensation Failure: Trade, Partisan Collusion, and the
 Underprovision of Compensation.”
 </h3>
+<p align="left" style="font-size:20px;">
+Nicholas Ray
+</p>
 <p align="center" style="font-size:20px;">
 <a href = research_files/Explaining_Compensation_Failure.pdf>Read
 <i class="fas fa-book-open"></i></a> 
@@ -344,41 +426,69 @@ Underprovision of Compensation.”
 Replication Files <i class="fas fa-folder-open"></i></a>
 </p>
 <p align="justify" style="font-size:16px;">
-Why has there not been more compensation for the losers of free trade? I
-make the novel argument that there has been a failure of compensation
-because political elites have tacitly colluded to avoid compensation.
-With the help of a simple formal model, I contend that political parties
-are better off implicitly agreeing to not increase compensation and
-instead compete over less costly issues. To evaluate the implication
-that import competition should cause less compensation as tacit
-collusion becomes more likely, I develop a two-part identification
-strategy. Firstly, I construct original shift-share instruments to
-estimate the effect of import competition on a measure of compensation.
-Secondly, I assess if this effect is moderated by how feasible tacit
-collusion is, which I estimate using latent variable analysis. For 24
-European countries from 2000-2022, I show that a negative import shock
-causes less compensation on average as tacit collusion becomes more
-feasible.
+Abstract: Why has there not been more compensation for the losers of
+free trade? I make the novel argument that there has been a failure of
+compensation because political elites have tacitly colluded to avoid
+compensation. With the help of a simple formal model, I contend that
+political parties are better off implicitly agreeing to not increase
+compensation and instead compete over less costly issues. To evaluate
+the implication that import competition should cause less compensation
+as tacit collusion becomes more likely, I develop a two-part
+identification strategy. Firstly, I construct original shift-share
+instruments to estimate the effect of import competition on a measure of
+compensation. Secondly, I assess if this effect is moderated by how
+feasible tacit collusion is, which I estimate using latent variable
+analysis. For 24 European countries from 2000-2022, I show that a
+negative import shock causes less compensation on average as tacit
+collusion becomes more feasible.
 </p>
 </div>
-<br>
+<p><br></p>
+<a id="border"></a>
+<div style="padding:20px;border:0.5px solid black;margin:10px;">
+<h3>
+“Crafting the Neoliberal Border: Infrastructure, Migration, and
+Transborder Trade.”
+</h3>
+<p align="left" style="font-size:20px;">
+Beth Simmons, Michael Kenwick, Junghyun Lim, and Nicholas Ray
+</p>
+</div>
 <h1>
 Works in Progress
 </h1>
 <div style="padding:20px;border:0.5px solid black;margin:10px;">
 <h3>
-“Has There Been a Failure to Compensate the Losers From Free Trade?”
+“Trade Shocks and Governance Rhetoric”
 </h3>
+<p align="left" style="font-size:20px;">
+Steve Boivie, Michael Withers, Iqbal Farhan, and Nicholas Ray
+</p>
 </div>
 <div style="padding:20px;border:0.5px solid black;margin:10px;">
 <h3>
-“How Much Should We Trust Clustered Standard Errors?”
+“Estimating Compensation Failure: How Much Has Compensation Been
+Underprovided?”
 </h3>
+<p align="left" style="font-size:20px;">
+Nicholas Ray
+</p>
+</div>
+<div style="padding:20px;border:0.5px solid black;margin:10px;">
+<h3>
+“ADiDL: Improving Difference-in-Differences (DiD) Estimators by
+Incorporating Dynamics.”
+</h3>
+<p align="left" style="font-size:20px;">
+Nicholas Ray and Erik Chi
+</p>
 </div>
 </section>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -411,6 +521,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

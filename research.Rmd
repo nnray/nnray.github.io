@@ -3,6 +3,8 @@ title: "Nicholas N Ray"
 css: style.css
 output:
   html_document:
+    toc: true
+    toc_float: true
     includes:
       in_header: header.html
 ---
@@ -20,10 +22,15 @@ output:
 </head>
 
 <section>
+
   <h1>Publications</h1>
-  <h2 style="padding-left:50px;">Book Chapters</h2>
+  
+  <h2 style="padding-left:20px;">Book Chapters</h2>
   <div style="border:0.5px solid black; margin:10px; padding-left:50px; padding-right:20px; padding-top:20px; padding-bottom:20px;">
-  <h3>Dunaway, Johanna and Nicholas Ray. 2023. "Communication Technology and Threats to Democracy: We Are (Also) the Problem."</h3>
+  <h3>"Communication Technology and Threats to Democracy: We Are (Also) the Problem." (2023)</h3>
+  <p align="left" style = "font-size:20px;">
+  Johanna Dunaway and Nicholas Ray
+  </p>
   <p align="center" style="font-size:20px; margin:0;">
     <a href="research_files/Dunaway_Ray_Pre-Print.pdf">Read <i class="fas fa-book-open"></i></a>
   </p>
@@ -31,24 +38,56 @@ output:
     We argue that the scholarship on digital media and its effects need to consider how individuals process digital information and not only on what they are exposed to. We highlight that digital media maintains attributes of more traditional media that qualifies its expected political impact. In <a href="https://www.taylorfrancis.com/books/edit/10.4324/9781003257998/news-quality-digital-age-regina-lawrence-philip-napoli">News Quality in the Digital Age</a>, edited by Regina Lawrence and Philip Napoli. New York: Routledge.
   </p>
   </div>
+  
   <br>
+  
   <h1> Working Papers </h1>
+  
   <a id="globalization"></a> 
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
   <h3> "Explaining Compensation Failure: Trade, Partisan Collusion, and the Underprovision of Compensation." </h3>
-  <p align="center" style = "font-size:20px;"> 
+  <p align="left" style = "font-size:20px;">
+  Nicholas Ray
+  </p>
+  <p align="center" style = "font-size:20px;">
   <a href = research_files/Explaining_Compensation_Failure.pdf>Read <i class="fas fa-book-open"></i></a>&emsp;
   <a href=https://www.dropbox.com/scl/fo/a60f44ahtda56idblzcpv/APXpHDmaPAeoOThHbFSz70E?rlkey=j5er9qwlvo92yejbb209btger&st=q0hj91d0&dl=0> Replication Files <i class="fas fa-folder-open"></i></a> 
   </p>
-  <p align="justify" style="font-size:16px;"> Why has there not been more compensation for the losers of free trade? I make the novel argument that there has been a failure of compensation because political elites have tacitly colluded to avoid compensation. With the help of a simple formal model, I contend that political parties are better off implicitly agreeing to not increase compensation and instead compete over less costly issues. To evaluate the implication that import competition should cause less compensation as tacit collusion becomes more likely, I develop a two-part identification strategy. Firstly, I construct original shift-share instruments to estimate the effect of import competition on a measure of compensation. Secondly, I assess if this effect is moderated by how feasible tacit collusion is, which I estimate using latent variable analysis. For 24 European countries from 2000-2022, I show that a negative import shock causes less compensation on average as tacit collusion becomes more feasible.
+  <p align="justify" style="font-size:16px;"> Abstract: Why has there not been more compensation for the losers of free trade? I make the novel argument that there has been a failure of compensation because political elites have tacitly colluded to avoid compensation. With the help of a simple formal model, I contend that political parties are better off implicitly agreeing to not increase compensation and instead compete over less costly issues. To evaluate the implication that import competition should cause less compensation as tacit collusion becomes more likely, I develop a two-part identification strategy. Firstly, I construct original shift-share instruments to estimate the effect of import competition on a measure of compensation. Secondly, I assess if this effect is moderated by how feasible tacit collusion is, which I estimate using latent variable analysis. For 24 European countries from 2000-2022, I show that a negative import shock causes less compensation on average as tacit collusion becomes more feasible.
   </p>
   </div>
+  
   <br>
+  
+  <a id="border"></a> 
+  <div style="padding:20px;border:0.5px solid black;margin:10px;">
+  <h3> "Crafting the Neoliberal Border: Infrastructure, Migration, and Transborder Trade." </h3>
+  <p align="left" style = "font-size:20px;">
+  Beth Simmons, Michael Kenwick, Junghyun Lim, and Nicholas Ray
+  </p>
+  </div>
+  
   <h1> Works in Progress </h1>
+  
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
-  <h3> "Has There Been a Failure to Compensate the Losers From Free Trade?" </h3>
+  <h3> "Trade Shocks and Governance Rhetoric" </h3>
+  <p align="left" style = "font-size:20px;">
+  Steve Boivie, Michael Withers, Iqbal Farhan, and Nicholas Ray
+  </p>
   </div>
+  
   <div style="padding:20px;border:0.5px solid black;margin:10px;">
-  <h3> "How Much Should We Trust Clustered Standard Errors?" </h3>
+  <h3> "Estimating Compensation Failure: How Much Has Compensation Been Underprovided?" </h3>
+  <p align="left" style = "font-size:20px;">
+  Nicholas Ray
+  </p>
   </div>
+  
+  <div style="padding:20px;border:0.5px solid black;margin:10px;">
+  <h3> "ADiDL: Improving Difference-in-Differences (DiD) Estimators by Incorporating Dynamics." </h3>
+  <p align="left" style = "font-size:20px;">
+  Nicholas Ray and Erik Chi
+  </p>
+  </div>
+  
 </section>
